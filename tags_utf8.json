@@ -1,0 +1,19 @@
+{
+"Gaming": ["let's play","roguelike","gameplay","walkthrough","dlc","xbox","gameboy","boss","arcade","gaming","nintendo","playstation"],
+
+"Sports": ["motorsports","athletics","championships","aussie rules","soccer","football","basketball","hockey","rugby","tennis","nba","highlights"],
+
+"Education": ["learn","programming","solve","solved","science","tutorial","course","example","formula","facts","lecture","professor","gate","learning"],
+
+"Autos & Vehicles": ["engine","truck","car","suv","sedan","ford","auto","bus","drive","ferrari","nissan"],
+
+"Music": ["vevo","album","lyrics","hits","country","music video","official music video","karaoke"],
+
+"Science & Technology": ["experiment","lab","energy","science","biology","physics","paleontology","javascript","nextjs","app","api","install","data","machine"],
+
+"Pets & Animals": ["nature","animals","wildlife"],
+
+"Food": ["recipe","cooking","homemade","cheese","pasta","homemade","food","lunch","dinner","meal","fry","gravy","curry","pepper","masala","butter","chicken","ravioli"],
+
+"Film & Animation": ["animation","disney","pixar","trailer","official trailer","anime","manga","spoilers"]
+}
